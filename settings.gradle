@@ -1,0 +1,3 @@
+rootProject.name = "SmsSender"
+include ':smssender'
+include ':app'

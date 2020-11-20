@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SmsSenderView">
+        <attr name="android:text" />
+        <attr name="android:hint" />
+        <attr name="android:textSize" />
+        <attr name="android:textColor" />
+        <attr name="android:textColorHint" />
+        <attr name="android:gravity" />
+        <attr name="ssv_duration" format="string" />
+        <attr name="ssv_retryText" format="string" />
+        <attr name="ssv_mobile" format="string" />
+        <attr name="ssv_event" format="string" />
+        <attr name="ssv_auto" format="boolean" />
+    </declare-styleable>
+
+</resources>
